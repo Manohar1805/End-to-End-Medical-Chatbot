@@ -10,7 +10,7 @@ load_dotenv()
 
 # Get API keys from environment variables
 PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
-# PINECONE_API_KEY="37492372-5eea-42a2-9bed-e8cf8ec108e2"
+
 PINECONE_ENV = os.getenv("PINECONE_ENV")
 
 # Initialize Pinecone client

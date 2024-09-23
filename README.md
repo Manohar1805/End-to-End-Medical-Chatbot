@@ -78,4 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This version provides clear, step-by-step instructions on setting up and running the medical chatbot project, making it easier for others to follow along and get started.
